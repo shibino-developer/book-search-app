@@ -30,8 +30,3 @@ Built with **React** for the frontend and **Go (Golang)** for the backend, it in
 
 ---
 
-## Architecture Overview
-
-```plaintext
-React App
-   ↓ (Axios HTTP
